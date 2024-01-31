@@ -33,7 +33,7 @@ const BibleVerse = () => {
 						}`}
 					</p>
 					<p className="text-lg font-medium mb-4">{version}</p>
-					<p className="text-md">{generate.verse?.verse}</p>
+					<p className="text-md px-4">{generate.verse?.verse}</p>
 				</div>
 			);
 		}
