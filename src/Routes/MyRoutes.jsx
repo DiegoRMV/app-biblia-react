@@ -8,7 +8,7 @@ const MyRoutes = () => {
 		<Routes>
 			<Route path="/" element={<Home />} />
 			<Route path="/biblia" element={<Biblia />} />
-			<Route path="/search" element={<Search />} />
+			{/* <Route path="/search" element={<Search />} /> */}
 		</Routes>
 	);
 };
