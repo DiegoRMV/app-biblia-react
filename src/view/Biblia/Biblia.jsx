@@ -77,7 +77,7 @@ const Biblia = () => {
 							<h1 className="text-white text-center text-xl">
 								capitulo {data.chapter}
 							</h1>
-							<div className="h-full max-h-[60vh] overflow-y-scroll p-6">
+							<div className="h-full max-h-[60vh] overflow-y-scroll pl-8 pr-6">
 								<ol className="list-decimal">
 									{data.vers?.map((v) => (
 										<div key={v.id}>
