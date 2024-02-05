@@ -411,7 +411,7 @@ export const versions = [
 		uri: "/api/read/rv1995",
 	},
 	{
-		name: "Nueva versióninternacional",
+		name: "Nueva versión Internacional",
 		version: "nvi",
 		uri: "/api/read/nvi",
 	},
